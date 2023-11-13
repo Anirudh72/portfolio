@@ -802,3 +802,148 @@ position: relative;
 
     }
 }
+
+ @media only screen and (max-width:450px){
+     
+     .text-h{
+      font-size:1.2rem;
+      font-weight:600;
+  
+  }
+
+  .logo-img{
+    margin-left: 10px;
+  }
+
+  .logo-img img{
+    width:3.5rem;
+    height:3.5rem;
+    width: 100%;
+    
+
+
+  }
+
+  .nav-toggle{
+    
+    
+    font-size:25px;
+    
+  }
+
+    .about-section{
+      top:50px;
+      height:90vw;
+    }
+     
+     
+     
+      .first-c h1{
+        font-size: 30px;
+      }
+      .first-c h2{
+        font-size: 20px;
+
+      }
+
+      .text{
+      font-size:30px;
+      }
+      .intro{
+        font-size: 10px;
+        margin-top: 5px;
+      }
+
+       
+      .btn{
+        margin-top:5px;
+        
+    
+    }
+
+      .btn button{
+        padding: 10px 35px 10px 35px;
+        font-size:10px;
+    }
+
+
+    .scroll{
+      margin-top:0.5rem;
+  }
+  
+
+    .mouse{
+      height:30px;
+      width:20px;
+     
+
+    }
+
+   
+    .skill h1{
+      
+      font-size:2.2rem;
+      padding-top:1px;
+       
+   }
+
+   .box{
+    
+    height:20px;
+    width:4px;
+    margin-top:2px;
+
+   
+
+ }
+
+ .about-skill{
+ 
+  margin-top:2rem;
+
+}
+
+
+ .skill-left h1{
+  font-size:1.2rem;
+ }
+   
+
+ .skill-left .skill-bar .info p{
+  font-size:10px;
+  
+}
+ 
+ 
+.profestional-skill h1{
+
+  font-size:1.2rem ;
+}
+
+.detail p{
+
+  font-size: 10px;
+  
+}
+   
+.project-section h1{
+  
+  font-size:2.2rem;
+ 
+ }
+
+ .form{
+  height: 50vh;
+ }
+ 
+
+ .form-details{
+     
+  max-width:600px;
+  margin: 0 auto;
+ 
+ 
+
+ }
+  
+}
